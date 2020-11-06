@@ -38,5 +38,5 @@ I am a software developer for CNC machine tools.
 ##  Languages:
 
 * _English_ __A0__
-* _Russian_ __B2__
+* _Russian_ __Native speaker__
 * _Belarussian_ __A2__
